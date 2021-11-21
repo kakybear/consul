@@ -1,0 +1,14 @@
+{
+    "attributes" : [
+      {
+        "trait_type" : "equity",
+        "value" : "stock"
+      }, {
+        "trait_type" : "equity-type",
+        "value" : "repay"
+      } 
+    ],
+    "description" : "wadiz equity, beer",
+    "image" : "https://www.wadiz.kr/web/equity/campaign/3882",
+    "name" : "7brau"
+}
