@@ -1,1 +1,17 @@
-https://github.com/kakybear/consul/tree/master/config
+{
+    "attributes" : [
+      {
+        "trait_type" : "type",
+        "value" : "stock"
+      }, {
+        "trait_type" : "business",
+        "value" : "glasses"
+      }, {
+        "trait_type" : "goods",
+        "value" : "8"
+      } 
+    ],
+    "description" : "Frame Montana, https://www.wadiz.kr/web/equity/campaign/6010",
+    "image" : "https://wadiz.kr/ft/images/green001/2020/1224/20201224200947080_null.png",
+    "name" : "Frame Montana"
+}
